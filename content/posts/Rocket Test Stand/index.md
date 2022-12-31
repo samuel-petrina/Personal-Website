@@ -1,6 +1,7 @@
 ---
 title: "Solid Rocket Motor Test Stand"
 date: 2021-04-15
+tags: ['Solidworks', 'FEA']
 ---
 
 {{< figure src="test_stand_isometric.png" caption="Solidworks model of the final design" >}}
@@ -9,4 +10,4 @@ At the end of first year at Queen's University, all engineering students work on
 
 {{< figure src="test_stand_ortho.png">}}
 
-Our design works by fixing the motor vertically so the motor thrust pushes the structure into the ground. The motor is constrained using a simple swing arm that pivots on two bushings. Thrust is measured with a load cell between the swing arm and the base. most of the structure is made of standard HSS stock which helps with cost. To allow the test stand to be transported, the legs can unbolt and the swing arm can be removed. We were able to make the design adaptable to other motor diameters and lengths by allowing the mounting brackets to be removed and replaced. Since this was a first-year project, we did not have the opportunity to build or test the design. Despite that, I think we designed a well-thought-out system that achieves all the design goals excellently. 
+Our design works by fixing the motor vertically so the motor thrust pushes the structure into the ground. The motor is constrained using a simple swing arm that pivots on two bushings. Thrust is measured with a load cell between the swing arm and the base. Most of the structure is made of standard HSS stock which helps with cost. To allow the test stand to be transported, the can legs can unbolt and the swing arm can be removed. We were able to make the design adaptable to other motor diameters and lengths by allowing the mounting brackets to be removed and replaced. Since this was a first-year project, we did not have the opportunity to build or test the design. Despite that, we designed a well-thought-out system that achieves all the design goals excellently. 

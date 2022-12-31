@@ -1,6 +1,7 @@
 ---
 title: "Bent Lamination Field Hockey Stick"
 date: 2019-12-20
+tags: ['Woodworking', 'Bent-lamination']
 ---
 
 {{< figure src="stick_front.jpg" caption="Finished hockey stick" >}}
@@ -9,7 +10,7 @@ After having decent success with sculptural woodworking projects like a canoe pa
 
 {{< figure src="bent_lamination.jpg" caption="Hockey stick in clamps after a stressful glueup" >}}
 
-My "unique" solution was to do a bent lamination but instead of using the bend to create the hook, I used it to accomplish the gentle curvature of the face that is typical of hockey sticks. To solve the grain orientation issue at the hook, the center laminate inside the hook was oriented perpendicular to the rest of the material. This means the hook is supported by grain aligned with the direction of loading. Whenever bent laminations are done, you need to plan for spring back in the material. This is a function of the layer thickness, desired radius, and the number of layers. Interestingly, it is independent of the young's modulus of the material. By measuring a "real" hockey stick and applying a correction factor for spring back, I could estimate the radius I would need for my forms. After a very stressful glue-up with some cursing, I was able to remove the clamps. My biggest worry was having voids between layers that would show up once I start shaping the stick. Fortunately, this was not the case.
+My solution was to do a bent lamination but instead of using the bend to create the hook, I used it to accomplish the gentle curvature of the face that is typical of hockey sticks. To solve the grain orientation issue at the hook, the center laminate inside the hook was oriented perpendicular to the rest of the material. This means the hook is supported by grain aligned with the direction of loading. Whenever bent laminations are done, you need to plan for spring back in the material. This is a function of the layer thickness, desired radius, and the number of layers. Interestingly, it is independent of the young's modulus of the material. By measuring a "real" hockey stick and applying a correction factor for spring back, I could estimate the radius I would need for my forms. After a very stressful glue-up with some cursing, I was able to remove the clamps. My biggest worry was having voids between layers that would show up once I start shaping the stick. Fortunately, this was not the case.
 
 
 {{< figure src="stick_sculpting.jpg" caption="Partway into shaping the stick" >}}

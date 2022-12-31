@@ -1,5 +1,6 @@
 ---
 title: "Beavertail Style Canoe Paddle"
+tags: ['Woodworking']
 date: 2017-11-22
 ---
 
